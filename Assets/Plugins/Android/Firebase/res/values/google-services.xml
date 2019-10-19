@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id" xmlns:tools="http://schemas.android.com/tools">
+  <string name="firebase_database_url" translatable="false">https://hack-harvard-vr.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">199302484625</string>
+  <string name="google_storage_bucket" translatable="false">hack-harvard-vr.appspot.com</string>
+  <string name="project_id" translatable="false">hack-harvard-vr</string>
+  <string name="google_api_key" translatable="false">AIzaSyCuks86aGyQsEnN9-Bh5j5zfuj24h-lLU4</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCuks86aGyQsEnN9-Bh5j5zfuj24h-lLU4</string>
+  <string name="google_app_id" translatable="false">1:199302484625:android:bd91e3bbf42a775ae96530</string>
+  <string name="default_web_client_id" translatable="false">199302484625-ltt0r49uq39g99kmv7gmnlhuvoig69cn.apps.googleusercontent.com</string>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "199302484625",
+    "firebase_url": "https://hack-harvard-vr.firebaseio.com",
+    "project_id": "hack-harvard-vr",
+    "storage_bucket": "hack-harvard-vr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199302484625:android:bd91e3bbf42a775ae96530",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.VRHackHarvard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199302484625-ltt0r49uq39g99kmv7gmnlhuvoig69cn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuks86aGyQsEnN9-Bh5j5zfuj24h-lLU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199302484625-ltt0r49uq39g99kmv7gmnlhuvoig69cn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
